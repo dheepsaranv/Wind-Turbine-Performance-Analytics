@@ -1,0 +1,4 @@
+"wind_category","total_records","total_actual_power","total_theoretical_power","total_power_loss","average_effeciency"
+Optimal Wind,35098,39761376.35,47779919.64,8018543.29,78.054238
+High Wind,7690,26312284.21,27619124.35,1306840.14,95.263081
+Low Wind,7687,3647.76,0.00,-3647.76,
